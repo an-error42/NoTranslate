@@ -1,6 +1,8 @@
 # NoTranslate
 Batch languages translation client.
 
+![Screenshot](https://image.prntscr.com/image/el0vgBtsT1yNjQeCbvkdzg.png)
+
 About
 ---
 
